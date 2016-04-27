@@ -1,28 +1,8 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Troop is going a simple social media page for me to practice Ruby On Rails
+Feel free to take a look at whats going on so far and let me know if you think i need to do something different!
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Big shoutout to Jordan Hudgens for getting me started on Ruby as it has shown me what a powerful tool it can be.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
