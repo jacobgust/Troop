@@ -1,6 +1,6 @@
 == README
 
-Troop is going a simple social media page for me to practice Ruby On Rails
+Troop is going to be a simple social media page for me to practice Ruby On Rails
 Feel free to take a look at whats going on so far and let me know if you think i need to do something different!
 
 Big shoutout to Jordan Hudgens for getting me started on Ruby as it has shown me what a powerful tool it can be.
